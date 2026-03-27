@@ -1,5 +1,6 @@
 🛡️ HHS/CBP Operational Command Center
 
+Every year, thousands of children travel long distances—often alone—to reach the U.S. Southern Border. This project uses data to act like a "weather forecast" for the U.S. Southern Border. By predicting exactly how many children will arrive at shelters 7 days in advance, we can make sure there is always a bed, a doctor, and a safe path home waiting for them. 
 An automated Data Engineering Pipeline and Interactive Analytics Dashboard built to monitor and audit the HHS Unaccompanied Alien Children (UAC) Program. This project transforms raw government datasets into a high-fidelity "Command Center" for tracking system capacity and operational strain.
 
 🚀 Engineering & Automation Highlights
